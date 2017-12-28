@@ -5,7 +5,6 @@
         "hostname": "go-dev-env",
         "vm-name": "go-dev"
     },
-
     "builders": [{
         "type": "virtualbox-iso",
         "guest_os_type": "Ubuntu_64",
